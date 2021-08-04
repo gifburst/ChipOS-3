@@ -1200,7 +1200,7 @@ void drawWatchModeDescription(int whichIndex){
     break;
     case 1:
       screen.setCursor(7, 44);
-      screen.print("COMMUNICATOR KEYPAD");
+      screen.print("CHIPPAD KEYPAD");
     break;
     case 2:
       screen.setCursor(4, 44);
